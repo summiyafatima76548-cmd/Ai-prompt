@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Prompt 1 🎀
  WHAT: Write 3 resume bullet points for my Todo App project.
 HOW: Use action verbs, add numbers, keep each point 1 line long.
@@ -18,3 +19,7 @@ Prompt 5 🎀
 WHAT: Write a professional LinkedIn summary for a junior web developer.
 HOW: Keep it under 200 words, use a confident tone, include 3 bullet points of key skills.  
 WHY: I am a beginner developer who just completed an HTML bootcamp and want to attract recruiters.
+=======
+# Ai-prompt
+Collection of 5 Ai prompts using What/How/Why Framework for Mern Stack bootcamp 
+>>>>>>> 10ac4a96b56c2fd2cd222c2ee38993c3bd3cb4b5
